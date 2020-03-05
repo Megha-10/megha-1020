@@ -1,6 +1,2 @@
-# AI-Healthcare-chatbot
-Through a series of questions about symptoms it diagnosis the health condition of patient. <br />
-Language     : python. <br />
-modules used : scikit-learn,pandas,numpy <br />
-Model        : Decision Tree
-
+Website for OSSr Tech Solutions
+The company that I am working for, has asked me to develop a website of their company in an innovative manner.
